@@ -8,6 +8,10 @@
   --background-end-rgb: 255, 255, 255;
 }
 
+.gradient {
+  background: linear-gradient(#4bce97, #006644, #216e4e, #00875a);
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
